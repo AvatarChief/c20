@@ -13,6 +13,7 @@ thanks:
   MosesOfEgypt: Tag structure research
   Vennobennu: Field documentation
   FD: Explaining "combine initial velocity with parent velocity"
+  xScruffyDaSasquatchx: Explaining noise volumes for AI perception
 ---
 **Projectiles** are special moving objects shot from weapons and thrown as grenades.
 
