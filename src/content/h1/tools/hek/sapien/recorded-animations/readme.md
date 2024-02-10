@@ -39,6 +39,7 @@ Once the unit is selected you can press the following keys to take over the unit
 	* First Person
 	* Third Person
 	* Flycam
+ * {% key "Shift + Q" /%}: Relinquish control of the unit you are possessing.
 
 # Begin recording
 Now that you've taken over the unit you should see a view that looks pretty similar to a standard ingame session. Press the {% key "Caps lock" /%} key to start recording.
